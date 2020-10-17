@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.mypractice.document.MerchantVoucher;
 import com.example.mypractice.dto.MerchantVoucherDTO;
-import com.example.mypractice.repository.MerchantVoucherRepositoryCustom;
 import com.example.mypractice.service.MerchantVoucherService;
 
 /**
